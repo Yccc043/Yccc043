@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yccc043
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Environment
+- 🌱 I’m currently learning Climate model
 - 📫 How to reach me yangcan512@163.com
 
 <!---
